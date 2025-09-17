@@ -1,5 +1,5 @@
 * {
-    font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif;
+    font-family: 'Segoe UI', Roboto, Helvetica, Arial, sans-serif;
     box-sizing: border-box;
 }
 
@@ -34,7 +34,7 @@ h1 {
     display: flex;
     justify-content: center;
     align-items: flex-start;
-    gap: 80px; /* Moderate gap for space */
+    gap: 80px; 
     padding: 60px 0;
 }
 
@@ -46,7 +46,7 @@ h1 {
     padding: 0;
     box-shadow: 0 8px 24px rgba(0,0,0,0.18);
     background: #232326;
-    margin-left: -40px; /* Shift image box a bit to the left */
+    margin-left: -40px; 
     display: flex;
     align-items: center;
     justify-content: center;
@@ -61,7 +61,7 @@ h1 {
 }
 
 .bio_box {
-    flex: 0 0 480px; /* Bigger size */
+    flex: 0 0 480px; 
     margin: 0;
     width: 480px;
     padding: 32px 32px;
